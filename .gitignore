@@ -1,2 +1,6 @@
 .idea
 out/
+*.beam
+*.dump
+.DS_Store
+
